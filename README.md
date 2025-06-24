@@ -1,16 +1,6 @@
 # LoRa-Communication-Project
 A hardware Project used for long-range Communication <br>
-In this project, the utilization of two LoRa modules facilitated
-long-distance communication over distances of up to 10
-kilometers. The primary objective was to enable an automated
-vehicle to transmit data from its onboard sensors to a remote
-location. One LoRa module was dedicated to gathering and
-transmitting the sensor data from the vehicle, while the
-complementary module was tasked with regulating light bulbs
-based on the received sensor information. The implementation
-relied heavily on Arduino programming, which was instrumental
-In managing the data transmission and controlling the light bulbs
-In response to the sensor readings. This project demonstrates the
-practicality and efficiency of using LoRa technology for remote
-monitoring and control applications in automated systems.
+In this project, a long-range IoT communication system using LoRa SX1278 modules and Arduino enables real-time transmission of environmental data (temperature, humidity, gas detection, and distance) from an automated vehicle to a remote receiver over a 10 km range. Designed and programmed sensor integration, autonomous navigation, and remote device control, demonstrating expertise in IoT, wireless communication, and embedded systems.
+
+The Overall details of the project are provided in the file Ideal_Lab_report document, which is a total report on the project.
 
